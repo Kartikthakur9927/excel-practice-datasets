@@ -1,0 +1,16 @@
+Employee_ID,Name,Department,Position,Salary,Hire_Date,Performance_Rating,Age
+1001,Alice Brown,Sales,Manager,75000,2019-03-15,4.5,42
+1002,Bob Wilson,IT,Developer,65000,2020-06-10,4.2,35
+1003,Carol Davis,HR,Specialist,55000,2021-01-20,3.8,28
+1004,David Miller,Sales,Executive,45000,2022-02-14,4.0,31
+1005,Emma Johnson,IT,Manager,80000,2018-09-05,4.6,45
+1006,Frank Thomas,Finance,Analyst,60000,2021-07-22,3.5,26
+1007,Grace Lee,Marketing,Manager,70000,2019-11-30,4.3,38
+1008,Henry Chen,IT,Developer,62000,2022-04-18,3.9,29
+1009,Iris White,Sales,Executive,48000,2021-10-12,4.1,33
+1010,Jack Harris,Finance,Manager,75000,2017-05-25,4.4,50
+1011,Karen Martinez,HR,Manager,65000,2019-08-08,4.0,37
+1012,Leo Garcia,IT,Analyst,58000,2023-01-16,3.7,25
+1013,Mona Patel,Marketing,Specialist,52000,2022-09-09,3.6,27
+1014,Nathan Young,Sales,Executive,46000,2023-03-21,3.8,30
+1015,Olivia Rodriguez,Finance,Specialist,54000,2021-12-06,3.9,28

@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Current_Stock,Reorder_Level,Unit_Cost,Selling_Price,Last_Restock_Date,Units_Sold_Monthly
+P001,Wireless Mouse,Accessories,450,100,12,25,2024-01-10,200
+P002,USB Cable,Accessories,1200,200,2,5,2024-01-15,300
+P003,Monitor Stand,Accessories,85,150,18,40,2023-12-20,50
+P004,Keyboard,Accessories,320,120,30,75,2024-01-05,100
+P005,Laptop Bag,Accessories,60,80,25,60,2023-11-30,40
+P006,24 Inch Monitor,Electronics,120,50,200,350,2024-01-08,30
+P007,22 Inch Monitor,Electronics,95,60,150,280,2024-01-12,35
+P008,32 Inch Monitor,Electronics,45,40,300,500,2024-01-03,25
+P009,USB Hub,Accessories,200,100,15,40,2023-12-25,80
+P010,HDMI Cable,Accessories,800,150,3,8,2024-01-20,200

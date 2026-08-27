@@ -1,0 +1,16 @@
+Customer_ID,Customer_Name,Transaction_Date,Amount,Product_Category,Payment_Method
+C001,John Doe,2024-01-10,150.50,Electronics,Credit Card
+C002,Jane Smith,2024-01-12,200.00,Clothing,Debit Card
+C001,John Doe,2024-01-15,75.25,Books,Credit Card
+C003,Mike Johnson,2024-01-18,300.00,Electronics,Paypal
+C002,Jane Smith,2024-01-20,120.00,Home,Credit Card
+C004,Sarah Williams,2024-01-22,89.99,Beauty,Debit Card
+C001,John Doe,2024-01-25,250.00,Electronics,Credit Card
+C003,Mike Johnson,2024-01-28,45.50,Books,Credit Card
+C005,Tom Brown,2024-02-02,180.00,Clothing,Debit Card
+C002,Jane Smith,2024-02-05,95.00,Home,Paypal
+C004,Sarah Williams,2024-02-08,220.00,Beauty,Credit Card
+C001,John Doe,2024-02-12,160.00,Books,Credit Card
+C003,Mike Johnson,2024-02-15,310.00,Electronics,Debit Card
+C006,Lisa Anderson,2024-02-18,140.00,Clothing,Credit Card
+C005,Tom Brown,2024-02-22,200.00,Home,Credit Card

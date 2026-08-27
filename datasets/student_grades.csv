@@ -1,0 +1,16 @@
+Student_ID,Name,Subject,Midterm,Final,Assignment,Attendance,Final_Grade
+S001,Alice Cooper,Math,85,90,92,95,89.3
+S002,Bob Dylan,Math,78,82,80,85,80.5
+S003,Charlie Brown,Math,92,95,98,100,95.2
+S004,Diana Prince,Math,88,91,89,90,89.8
+S005,Eve Martin,Math,75,78,76,80,77.0
+S001,Alice Cooper,Science,90,88,91,92,89.8
+S002,Bob Dylan,Science,82,85,83,88,83.5
+S003,Charlie Brown,Science,95,93,96,98,94.8
+S004,Diana Prince,Science,87,89,88,91,88.3
+S005,Eve Martin,Science,80,82,81,85,81.3
+S001,Alice Cooper,English,88,92,94,96,91.2
+S002,Bob Dylan,English,85,88,86,90,87.0
+S003,Charlie Brown,English,91,94,95,97,93.8
+S004,Diana Prince,English,89,90,91,93,90.3
+S005,Eve Martin,English,82,85,84,88,84.3

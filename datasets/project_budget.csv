@@ -1,0 +1,9 @@
+Project_ID,Project_Name,Department,Planned_Budget,Actual_Spent,Planned_Duration_Days,Actual_Days_Elapsed,Status,Risk_Level
+PRJ001,Website Redesign,IT,50000,48500,90,75,In Progress,Low
+PRJ002,Mobile App Dev,IT,80000,95000,120,110,At Risk,High
+PRJ003,Marketing Campaign,Marketing,25000,24200,60,55,Completed,Low
+PRJ004,Office Renovation,Facilities,40000,42300,120,100,At Risk,Medium
+PRJ005,Data Migration,IT,35000,36500,45,42,In Progress,Medium
+PRJ006,Training Program,HR,15000,14800,30,25,Completed,Low
+PRJ007,ERP Implementation,IT,120000,145000,180,150,At Risk,High
+PRJ008,Customer Portal,IT,45000,43200,75,60,Completed,Low
